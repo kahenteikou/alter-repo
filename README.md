@@ -1,0 +1,2 @@
+# alter-repo
+AlterLinux リポジトリ
