@@ -7,6 +7,6 @@ ArchLinuxとの互換性があります。
 
 ```bash
 [alter-stable]
-Server = https://osdn.net/projects/serene/storage/repo/alter-stable/$arch
+Server = https://sereneteam.github.io/alter-repo/alter-stable/$arch
 SigLevel = Optional TrustAll
 ```
